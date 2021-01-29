@@ -1,4 +1,4 @@
 from django.contrib import admin
-from .models import RegistrooHoraExtra
+from .models import RegistroHoraExtra
 
-admin.site.register(RegistrooHoraExtra)
+admin.site.register(RegistroHoraExtra)
