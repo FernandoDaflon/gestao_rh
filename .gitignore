@@ -4,3 +4,5 @@ env
 *.pyc
 gestao_rh/__pycache__/
 gestao_rh.pem
+gestao_rh/__pycache__/settings.cpython-36.pyc
+gestao_rh/__pycache__/urls.cpython-36.pyc
